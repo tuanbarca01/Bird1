@@ -1,0 +1,629 @@
+fileFormatVersion: 2
+guid: f18ccc2b88aad454394535b75ea4e855
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 619
+        width: 140
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da481741ff9856e45afbef187683a803
+      internalID: 1257117752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 621
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ddc5d4e1c45c44bac042be9fd9c0aa
+      internalID: -956063349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 622
+        width: 137
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b0c8f8380db304ca166ea595a5f266
+      internalID: -1604228301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 623
+        width: 140
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac938dc6ebc2b349926ae8bfbf3a9b8
+      internalID: 300009485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_4
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 625
+        width: 138
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcb6fb3fb210084086866df559e1b4c
+      internalID: 435657832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_5
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 628
+        width: 139
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be473e648531234386dfc7a51236def
+      internalID: 88377877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 456
+        width: 140
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287a685c9a484b1459df04cb2f5a83fd
+      internalID: 1478309480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 465
+        width: 140
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f5effb5ce350f45901f8d4afb1b0f3
+      internalID: 823006085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 466
+        width: 140
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fccb9ba8a28b547b054b82ec5a13a4
+      internalID: 648450497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_9
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 467
+        width: 142
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59de8f9c17fd76441bc45262ab190b8c
+      internalID: 377351463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 294
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c839f157dbf3d49a259fb0dabc7f70
+      internalID: 857238292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 310
+        width: 140
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056c12e60823e384d9e0bb9bf5503c2d
+      internalID: 1987028918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 311
+        width: 140
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f34c27d37b4c834db6a800251109d2a
+      internalID: -1374575598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_13
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 312
+        width: 140
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0da29c050d7cc409e6a44b19024249
+      internalID: -2096966932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e679db235920a5f4db42f4d8bc261334
+      internalID: -950266471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 155
+        width: 138
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37388fe8ea0928040920a15a17eb0b01
+      internalID: 1168799680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 156
+        width: 138
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd34807788e7f864981ee20dc8a3d6a2
+      internalID: -550959050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 159
+        width: 140
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b98be9108c698740b38d8c0140b58de
+      internalID: -520845796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_18
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 166
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0434c9148c9c0c4da7f0e49eca23504
+      internalID: -2139740582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 140
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c959f54b87080d48825aa99b495d934
+      internalID: -586195661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 3
+        width: 140
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b55daccf8eb0144b86ccfa5b119562
+      internalID: 257296339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_21
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 11
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6634d221cf8286c4d80e11d94d6d1d3f
+      internalID: 880805039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGS_NEW_SHEET_2_1_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 21
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d2c5705c31d8649b7cec63b5118b79
+      internalID: 535171669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      INGAME_PIGS_NEW_SHEET_2_1_8: 648450497
+      INGAME_PIGS_NEW_SHEET_2_1_22: 535171669
+      INGAME_PIGS_NEW_SHEET_2_1_19: -586195661
+      INGAME_PIGS_NEW_SHEET_2_1_4: 435657832
+      INGAME_PIGS_NEW_SHEET_2_1_0: 1257117752
+      INGAME_PIGS_NEW_SHEET_2_1_6: 1478309480
+      INGAME_PIGS_NEW_SHEET_2_1_20: 257296339
+      INGAME_PIGS_NEW_SHEET_2_1_2: -1604228301
+      INGAME_PIGS_NEW_SHEET_2_1_11: 1987028918
+      INGAME_PIGS_NEW_SHEET_2_1_3: 300009485
+      INGAME_PIGS_NEW_SHEET_2_1_7: 823006085
+      INGAME_PIGS_NEW_SHEET_2_1_9: 377351463
+      INGAME_PIGS_NEW_SHEET_2_1_10: 857238292
+      INGAME_PIGS_NEW_SHEET_2_1_1: -956063349
+      INGAME_PIGS_NEW_SHEET_2_1_17: -520845796
+      INGAME_PIGS_NEW_SHEET_2_1_18: -2139740582
+      INGAME_PIGS_NEW_SHEET_2_1_16: -550959050
+      INGAME_PIGS_NEW_SHEET_2_1_13: -2096966932
+      INGAME_PIGS_NEW_SHEET_2_1_5: 88377877
+      INGAME_PIGS_NEW_SHEET_2_1_14: -950266471
+      INGAME_PIGS_NEW_SHEET_2_1_12: -1374575598
+      INGAME_PIGS_NEW_SHEET_2_1_21: 880805039
+      INGAME_PIGS_NEW_SHEET_2_1_15: 1168799680
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
